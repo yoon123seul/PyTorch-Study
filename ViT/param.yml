@@ -1,0 +1,8 @@
+BATCH_SIZE: 128
+Epoch: 100
+Patch: 16
+Color: 3
+Drop_out: 0.05
+Num_head: 12
+expansion: 4
+Depth: 12
